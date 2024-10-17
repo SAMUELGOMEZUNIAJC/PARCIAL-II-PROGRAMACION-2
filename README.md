@@ -2,7 +2,7 @@
 
 # GradesMVC
 
-Este proyecto implementa un patrón MVC (Modelo-Vista-Controlador) en Java para la gestión de notas estudiantiles. La aplicación obtiene calificaciones de diferentes estudiantes para un curso específico y las muestra en una vista simple.
+implementa un patrón MVC (Modelo-Vista-Controlador) en Java para la gestión de notas estudiantiles. La aplicación obtiene calificaciones de diferentes estudiantes para un curso específico y las muestra en una vista simple
 
 ## Estructura del proyecto
 
