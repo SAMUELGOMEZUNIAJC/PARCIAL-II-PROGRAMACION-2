@@ -11,9 +11,3 @@ Este proyecto implementa un patrón MVC (Modelo-Vista-Controlador) en Java para 
 - **`GradeController.java`**: Controlador que simula la obtención de las notas.
 - **`GradeView.java`**: Vista encargada de mostrar las calificaciones.
 - **`MainApp.java`**: Clase principal que une todo y ejecuta el flujo de la aplicación.
-
-## Ejecución del proyecto
-
-1. Clona este repositorio.
-2. Compila los archivos Java.
-3. Ejecuta la clase `MainApp` para ver los resultados de las calificaciones.
